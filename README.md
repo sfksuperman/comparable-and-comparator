@@ -1,2 +1,1 @@
-# comparable-and-comparator
-Example of how to use Comparable and Comparator
+Example of how to use Comparable and Comparator in Java.
